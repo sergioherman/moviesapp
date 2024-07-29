@@ -1,0 +1,16 @@
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/movies_app
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/Montserrat-Bold.ttf
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/Montserrat-SemiBold.ttf
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/Montserrat-Italic.ttf
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/Montserrat-Regular.ttf
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json

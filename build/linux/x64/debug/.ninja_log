@@ -1,0 +1,56 @@
+# ninja log v5
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	387e13924a60d934
+25785	27026	1722210213084559085	CMakeFiles/movies_app.dir/flutter/generated_plugin_registrant.cc.o	46b44ec83ac6aba0
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	387e13924a60d934
+0	25783	0	flutter/_phony_	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	387e13924a60d934
+27187	27485	1722210213548558062	intermediates_do_not_run/movies_app	739f270db3b32285
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	387e13924a60d934
+25783	27104	1722210213164558908	CMakeFiles/movies_app.dir/main.cc.o	5102cca5192b9a56
+27485	27880	0	CMakeFiles/install.util	7b4a922853309db5
+25784	27187	1722210213248558723	CMakeFiles/movies_app.dir/my_application.cc.o	dcca8c4c165860c2
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/libflutter_linux_gtk.so	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/flutter/_phony_	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_view.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_value.h	387e13924a60d934
+0	25783	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/libflutter_linux_gtk.so	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_value.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/fl_view.h	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	387e13924a60d934
+17	10441	0	flutter/_phony_	387e13924a60d934
+17	10441	0	/home/sergio/Prime Up/Flutter/movies_app/build/linux/x64/debug/flutter/_phony_	387e13924a60d934
+10442	15760	1722242337210015971	CMakeFiles/movies_app.dir/flutter/generated_plugin_registrant.cc.o	46b44ec83ac6aba0
+10442	15850	1722242337302016245	CMakeFiles/movies_app.dir/my_application.cc.o	dcca8c4c165860c2
+15850	16088	1722242337542016957	intermediates_do_not_run/movies_app	ffaa550ed87ed5a0
+16088	16376	0	CMakeFiles/install.util	7b4a922853309db5
